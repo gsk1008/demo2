@@ -1,0 +1,25 @@
+.main{
+    width: 100%;
+}
+
+.head{
+    padding: 0 8px;
+    list-style-type: none;
+    li{
+        margin: 3px 0px;
+       border: 1px solid gainsboro;
+       padding: 10px;
+
+    }
+    a{
+       text-decoration: none;
+       color: black;
+
+    }
+
+}
+
+.head li:hover{
+    background-color: pink;
+    border-color: black;
+}
